@@ -1,5 +1,4 @@
 require 'helper'
-require 'kupl'
 
 class TestKupl < Test::Unit::TestCase
 	def test_hi
