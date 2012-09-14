@@ -1,7 +1,5 @@
 = kupl
-
-Description goes here.
-
+{<img src="https://secure.travis-ci.org/aar0nTw/kupl.png" alt="Build Status" />}[http://travis-ci.org/aar0nTw/kupl]
 == Contributing to kupl
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
